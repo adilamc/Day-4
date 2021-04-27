@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\bin\Debug\Assembly1.dll
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\bin\Debug\Assembly1.pdb
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\obj\Debug\Assembly1.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\obj\Debug\Assembly1.dll
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Day 4\Assembly1\obj\Debug\Assembly1.pdb
